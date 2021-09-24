@@ -68,8 +68,593 @@ TextureImporter:
   - first:
       213: 21300042
     second: Warrior_Run_21
+  - first:
+      213: -432731726981308715
+    second: Warrior_Run_0
+  - first:
+      213: 8551124423323264409
+    second: Warrior_Run_1
+  - first:
+      213: -8600065048725663906
+    second: Warrior_Run_2
+  - first:
+      213: 3241423924572654580
+    second: Warrior_Run_3
+  - first:
+      213: -5828329696384875631
+    second: Warrior_Run_4
+  - first:
+      213: 2022560608615539102
+    second: Warrior_Run_5
+  - first:
+      213: 6270924559744724765
+    second: Warrior_Run_6
+  - first:
+      213: 3172669726761555855
+    second: Warrior_Run_7
+  - first:
+      213: 3957893251674622928
+    second: Warrior_Run_8
+  - first:
+      213: 1465887317120085764
+    second: Warrior_Run_9
+  - first:
+      213: 5471086590305367197
+    second: Warrior_Run_10
+  - first:
+      213: 5209125476909916207
+    second: Warrior_Run_11
+  - first:
+      213: -8815717533442984555
+    second: Warrior_Run_12
+  - first:
+      213: -8968302299855106649
+    second: Warrior_Run_13
+  - first:
+      213: 8847621900663048646
+    second: Warrior_Run_14
+  - first:
+      213: -114792244115296761
+    second: Warrior_Run_15
+  - first:
+      213: 5402781286102983992
+    second: Warrior_Run_16
+  - first:
+      213: 8011178998892510919
+    second: Warrior_Run_17
+  - first:
+      213: -8143717303119721349
+    second: Warrior_Run_18
+  - first:
+      213: -2371571507864105488
+    second: Warrior_Run_19
+  - first:
+      213: -1018422883095592323
+    second: Warrior_Run_20
+  - first:
+      213: 4033437065222176047
+    second: Warrior_Run_21
+  - first:
+      213: 6621287012299907710
+    second: Warrior_Run_22
+  - first:
+      213: -7755839388732001256
+    second: Warrior_Run_23
+  - first:
+      213: -7999951609665971371
+    second: Warrior_Run_24
+  - first:
+      213: -323754974773816327
+    second: Warrior_Run_25
+  - first:
+      213: 744042125386026624
+    second: Warrior_Run_26
+  - first:
+      213: 4325113041544186178
+    second: Warrior_Run_27
+  - first:
+      213: -2622190121372143888
+    second: Warrior_Run_28
+  - first:
+      213: -7351815863514379772
+    second: Warrior_Run_29
+  - first:
+      213: -5799491444554885612
+    second: Warrior_Run_30
+  - first:
+      213: 933672544040224838
+    second: Warrior_Run_31
+  - first:
+      213: -7134595676364354884
+    second: Warrior_Run_32
+  - first:
+      213: 5069742115579766154
+    second: Warrior_Run_33
+  - first:
+      213: 769884008984606760
+    second: Warrior_Run_34
+  - first:
+      213: -5287772684557176929
+    second: Warrior_Run_35
+  - first:
+      213: -6935601129380515444
+    second: Warrior_Run_36
+  - first:
+      213: -7123713383814681349
+    second: Warrior_Run_37
+  - first:
+      213: 4555273931425208052
+    second: Warrior_Run_38
+  - first:
+      213: 852852126047474212
+    second: Warrior_Run_39
+  - first:
+      213: 5113304374734569623
+    second: Warrior_Run_40
+  - first:
+      213: -7113343857653990786
+    second: Warrior_Run_41
+  - first:
+      213: 7433810209379549267
+    second: Warrior_Run_42
+  - first:
+      213: -6527911168229730009
+    second: Warrior_Run_43
+  - first:
+      213: -6796461871234320343
+    second: Warrior_Run_44
+  - first:
+      213: 3057841324745444691
+    second: Warrior_Run_45
+  - first:
+      213: -4384125561778030666
+    second: Warrior_Run_46
+  - first:
+      213: 4720871640856745271
+    second: Warrior_Run_47
+  - first:
+      213: 282431079071600802
+    second: Warrior_Run_48
+  - first:
+      213: 860657523453539240
+    second: Warrior_Run_49
+  - first:
+      213: 2535267869809673685
+    second: Warrior_Run_50
+  - first:
+      213: 7819707575832298543
+    second: Warrior_Run_51
+  - first:
+      213: 1544583064276162657
+    second: Warrior_Run_52
+  - first:
+      213: 1543527852324457409
+    second: Warrior_Run_53
+  - first:
+      213: 2521788847347310049
+    second: Warrior_Run_54
+  - first:
+      213: -7209683099788969029
+    second: Warrior_Run_55
+  - first:
+      213: 4667425384389749063
+    second: Warrior_Run_56
+  - first:
+      213: -2962542207224389456
+    second: Warrior_Run_57
+  - first:
+      213: -6873051311505646239
+    second: Warrior_Run_58
+  - first:
+      213: 4907260606900991488
+    second: Warrior_Run_59
+  - first:
+      213: 5982026005567640753
+    second: Warrior_Run_60
+  - first:
+      213: -8853559167266749168
+    second: Warrior_Run_61
+  - first:
+      213: 1435984581283475090
+    second: Warrior_Run_62
+  - first:
+      213: 2556331258966945306
+    second: Warrior_Run_63
+  - first:
+      213: 2943873210472254975
+    second: Warrior_Run_64
+  - first:
+      213: -6304332554957811231
+    second: Warrior_Run_65
+  - first:
+      213: 1532981220742245324
+    second: Warrior_Run_66
+  - first:
+      213: -4815476850132012279
+    second: Warrior_Run_67
+  - first:
+      213: 5442191122312297010
+    second: Warrior_Run_68
+  - first:
+      213: -3854397238574432747
+    second: Warrior_Run_69
+  - first:
+      213: -2847389128130420996
+    second: Warrior_Run_70
+  - first:
+      213: -1967183152993309362
+    second: Warrior_Run_71
+  - first:
+      213: -777575851369248670
+    second: Warrior_Run_72
+  - first:
+      213: 2282996337931467252
+    second: Warrior_Run_73
+  - first:
+      213: 144558672597207070
+    second: Warrior_Run_74
+  - first:
+      213: -7015449132236511637
+    second: Warrior_Run_75
+  - first:
+      213: 3983087308703344367
+    second: Warrior_Run_76
+  - first:
+      213: -1071388573820826297
+    second: Warrior_Run_77
+  - first:
+      213: -921769814059169272
+    second: Warrior_Run_78
+  - first:
+      213: -908598412680280563
+    second: Warrior_Run_79
+  - first:
+      213: 4953285751466328671
+    second: Warrior_Run_80
+  - first:
+      213: 7302917078501393857
+    second: Warrior_Run_81
+  - first:
+      213: 8775488045458371124
+    second: Warrior_Run_82
+  - first:
+      213: 1730011505007552126
+    second: Warrior_Run_83
+  - first:
+      213: 4814963541698558815
+    second: Warrior_Run_84
+  - first:
+      213: -3704893499641257426
+    second: Warrior_Run_85
+  - first:
+      213: 6133409059989213910
+    second: Warrior_Run_86
+  - first:
+      213: 8659136316097961027
+    second: Warrior_Run_87
+  - first:
+      213: -6612336829169416402
+    second: Warrior_Run_88
+  - first:
+      213: 7926487074001614635
+    second: Warrior_Run_89
+  - first:
+      213: -1147556398804805953
+    second: Warrior_Run_90
+  - first:
+      213: -4606349626881256594
+    second: Warrior_Run_91
+  - first:
+      213: 8917862795730561863
+    second: Warrior_Run_92
+  - first:
+      213: -6243293061620862895
+    second: Warrior_Run_93
+  - first:
+      213: 4433988866656147063
+    second: Warrior_Run_94
+  - first:
+      213: -5538013241275153053
+    second: Warrior_Run_95
+  - first:
+      213: -7728569663232147246
+    second: Warrior_Run_96
+  - first:
+      213: -2703529353122967249
+    second: Warrior_Run_97
+  - first:
+      213: -5635914900083876073
+    second: Warrior_Run_98
+  - first:
+      213: -5731621741274569684
+    second: Warrior_Run_99
+  - first:
+      213: -3432441521256289352
+    second: Warrior_Run_100
+  - first:
+      213: 8077339002149812974
+    second: Warrior_Run_101
+  - first:
+      213: -1931853685523748024
+    second: Warrior_Run_102
+  - first:
+      213: -8324093372671060290
+    second: Warrior_Run_103
+  - first:
+      213: 7699182085484261741
+    second: Warrior_Run_104
+  - first:
+      213: 2807657288746480722
+    second: Warrior_Run_105
+  - first:
+      213: 1687096240704454583
+    second: Warrior_Run_106
+  - first:
+      213: -2608022385141668016
+    second: Warrior_Run_107
+  - first:
+      213: -630809259184472969
+    second: Warrior_Run_108
+  - first:
+      213: 1319186278719872490
+    second: Warrior_Run_109
+  - first:
+      213: -721287375768595235
+    second: Warrior_Run_110
+  - first:
+      213: -2961815974007662996
+    second: Warrior_Run_111
+  - first:
+      213: -259521638995164395
+    second: Warrior_Run_112
+  - first:
+      213: 6735833367642965056
+    second: Warrior_Run_113
+  - first:
+      213: -7505965946674676176
+    second: Warrior_Run_114
+  - first:
+      213: 564065680298643658
+    second: Warrior_Run_115
+  - first:
+      213: 7804259407936396797
+    second: Warrior_Run_116
+  - first:
+      213: 3776585356337752439
+    second: Warrior_Run_117
+  - first:
+      213: 7002255406044747166
+    second: Warrior_Run_118
+  - first:
+      213: -6146243222304084530
+    second: Warrior_Run_119
+  - first:
+      213: -5568867411364211363
+    second: Warrior_Run_120
+  - first:
+      213: -4347407232321460438
+    second: Warrior_Run_121
+  - first:
+      213: -3521356516157725078
+    second: Warrior_Run_122
+  - first:
+      213: -5318361513397762542
+    second: Warrior_Run_123
+  - first:
+      213: -2354295252476757959
+    second: Warrior_Run_124
+  - first:
+      213: -48841014148400222
+    second: Warrior_Run_125
+  - first:
+      213: -3644105472810982553
+    second: Warrior_Run_126
+  - first:
+      213: -5712191404065491680
+    second: Warrior_Run_127
+  - first:
+      213: -9154632273098145530
+    second: Warrior_Run_128
+  - first:
+      213: 2015119493240081979
+    second: Warrior_Run_22
+  - first:
+      213: 6423068389639045771
+    second: Warrior_Run_23
+  - first:
+      213: -3088578655366918559
+    second: Warrior_Run_24
+  - first:
+      213: -2419478632510161502
+    second: Warrior_Run_25
+  - first:
+      213: 8902706124043908861
+    second: Warrior_Run_26
+  - first:
+      213: -721244387725761261
+    second: Warrior_Run_27
+  - first:
+      213: -2808635812250134920
+    second: Warrior_Run_28
+  - first:
+      213: -7902125809446375107
+    second: Warrior_Run_29
+  - first:
+      213: -3048116765506606473
+    second: Warrior_Run_30
+  - first:
+      213: 730917942663182462
+    second: Warrior_Run_31
+  - first:
+      213: 1712174362663868530
+    second: Warrior_Run_32
+  - first:
+      213: -8773139258107373797
+    second: Warrior_Run_33
+  - first:
+      213: 5552069702473933090
+    second: Warrior_Run_34
+  - first:
+      213: -6916694276824846629
+    second: Warrior_Run_35
+  - first:
+      213: -5411510004260396296
+    second: Warrior_Run_36
+  - first:
+      213: 1511593708313294748
+    second: Warrior_Run_37
+  - first:
+      213: 7251114177029813656
+    second: Warrior_Run_38
+  - first:
+      213: 7387331051649416831
+    second: Warrior_Run_39
+  - first:
+      213: 6547198285907968986
+    second: Warrior_Run_40
+  - first:
+      213: -3621680609182859505
+    second: Warrior_Run_41
+  - first:
+      213: -3868930382603703844
+    second: Warrior_Run_42
+  - first:
+      213: 1678115245259653444
+    second: Warrior_Run_43
+  - first:
+      213: 7769885024258010560
+    second: Warrior_Run_44
+  - first:
+      213: -2107410701721485756
+    second: Warrior_Run_45
+  - first:
+      213: 723266304714574647
+    second: Warrior_Run_46
+  - first:
+      213: 136373578547804898
+    second: Warrior_Run_47
+  - first:
+      213: 7233928128501547580
+    second: Warrior_Run_48
+  - first:
+      213: -2255623608155380741
+    second: Warrior_Run_49
+  - first:
+      213: -7699106856482131189
+    second: Warrior_Run_50
+  - first:
+      213: -7785477095129859504
+    second: Warrior_Run_51
+  - first:
+      213: -8733078793054887464
+    second: Warrior_Run_52
+  - first:
+      213: 8937456362522478312
+    second: Warrior_Run_53
+  - first:
+      213: 1969841979361235390
+    second: Warrior_Run_54
+  - first:
+      213: 4953709753330096510
+    second: Warrior_Run_55
+  - first:
+      213: -2449737257891691675
+    second: Warrior_Run_56
+  - first:
+      213: -3378018609450601475
+    second: Warrior_Run_57
+  - first:
+      213: -4618838425850975514
+    second: Warrior_Run_58
+  - first:
+      213: 6269632731370911898
+    second: Warrior_Run_59
+  - first:
+      213: -1578954911624534040
+    second: Warrior_Run_60
+  - first:
+      213: -5915110129521738711
+    second: Warrior_Run_61
+  - first:
+      213: 5698448968667056616
+    second: Warrior_Run_62
+  - first:
+      213: 1691270398235133976
+    second: Warrior_Run_63
+  - first:
+      213: 4970745132896751964
+    second: Warrior_Run_64
+  - first:
+      213: -6136261939261819570
+    second: Warrior_Run_65
+  - first:
+      213: -8070155764649258473
+    second: Warrior_Run_66
+  - first:
+      213: -2824807796061295180
+    second: Warrior_Run_67
+  - first:
+      213: 3370541141702858803
+    second: Warrior_Run_68
+  - first:
+      213: -7364974114189681709
+    second: Warrior_Run_69
+  - first:
+      213: 8468969621365005861
+    second: Warrior_Run_70
+  - first:
+      213: 6732658940915095441
+    second: Warrior_Run_71
+  - first:
+      213: -1995931379119386944
+    second: Warrior_Run_72
+  - first:
+      213: 8467291582268651027
+    second: Warrior_Run_73
+  - first:
+      213: 357931015882762556
+    second: Warrior_Run_74
+  - first:
+      213: 8443994734904312129
+    second: Warrior_Run_75
+  - first:
+      213: 6266285392627048569
+    second: Warrior_Run_76
+  - first:
+      213: -8665282387861718216
+    second: Warrior_Run_77
+  - first:
+      213: -4913816114336451455
+    second: Warrior_Run_78
+  - first:
+      213: -5571859712651994095
+    second: Warrior_Run_79
+  - first:
+      213: -9118346276893363086
+    second: Warrior_Run_80
+  - first:
+      213: -7978910583098391376
+    second: Warrior_Run_81
+  - first:
+      213: -7530608862123077972
+    second: Warrior_Run_82
+  - first:
+      213: 2807804790887050143
+    second: Warrior_Run_83
+  - first:
+      213: 1687167145502060631
+    second: Warrior_Run_84
+  - first:
+      213: 3958272538315406297
+    second: Warrior_Run_85
+  - first:
+      213: -1059640984574184815
+    second: Warrior_Run_86
+  - first:
+      213: 188235843535818217
+    second: Warrior_Run_87
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -123,6 +708,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -190,8 +776,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30f9b9436fdf48745b1ca1197e2e68ee
-      internalID: 21300000
+      spriteID: 5dedc3a79c0aef9f0800000000000000
+      internalID: -432731726981308715
       vertices: []
       indices: 
       edges: []
@@ -211,8 +797,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b455b935f3fac0248bb880a799f9b18a
-      internalID: 21300002
+      spriteID: 995a9527b52bba670800000000000000
+      internalID: 8551124423323264409
       vertices: []
       indices: 
       edges: []
@@ -232,8 +818,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3aa6994d72c581b4aa0638df0f542533
-      internalID: 21300004
+      spriteID: e5f447d376e66a880800000000000000
+      internalID: -8600065048725663906
       vertices: []
       indices: 
       edges: []
@@ -253,8 +839,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8980a19a204ade147ba6fd16bf123b51
-      internalID: 21300006
+      spriteID: 4fb0b96b2e9dbfc20800000000000000
+      internalID: 3241423924572654580
       vertices: []
       indices: 
       edges: []
@@ -274,8 +860,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 153e04c8cc836434cbc268739620d894
-      internalID: 21300008
+      spriteID: 1938e1d550d9d1fa0800000000000000
+      internalID: -5828329696384875631
       vertices: []
       indices: 
       edges: []
@@ -295,8 +881,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31576baa9874d5a4ebb84407ef2bffd4
-      internalID: 21300010
+      spriteID: e912a355824911c10800000000000000
+      internalID: 2022560608615539102
       vertices: []
       indices: 
       edges: []
@@ -316,8 +902,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 763ae4ab2f54ab94c902d10df57c998b
-      internalID: 21300012
+      spriteID: d1f6bdc89acc60750800000000000000
+      internalID: 6270924559744724765
       vertices: []
       indices: 
       edges: []
@@ -337,8 +923,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ce8e02f034f6f84e9d7277cecf10c05
-      internalID: 21300014
+      spriteID: f8712459e46970c20800000000000000
+      internalID: 3172669726761555855
       vertices: []
       indices: 
       edges: []
@@ -358,8 +944,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 288199775cb4ff84da845835c1d09ff0
-      internalID: 21300016
+      spriteID: 0db4bfc41f24de630800000000000000
+      internalID: 3957893251674622928
       vertices: []
       indices: 
       edges: []
@@ -379,8 +965,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a71f56e518735c4290063ce3e17edee
-      internalID: 21300018
+      spriteID: 40f61b19fb0e75410800000000000000
+      internalID: 1465887317120085764
       vertices: []
       indices: 
       edges: []
@@ -400,8 +986,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3c3e94df8bb9b4429db1803b2f5ba76
-      internalID: 21300020
+      spriteID: d94fd8e44443deb40800000000000000
+      internalID: 5471086590305367197
       vertices: []
       indices: 
       edges: []
@@ -421,8 +1007,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0674362bfd02094db0f9dd86be76615
-      internalID: 21300022
+      spriteID: f2027a9a5088a4840800000000000000
+      internalID: 5209125476909916207
       vertices: []
       indices: 
       edges: []
@@ -442,8 +1028,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02c20f3d4abe5e744bd3881e36ed6321
-      internalID: 21300024
+      spriteID: 595b2fa6c9748a580800000000000000
+      internalID: -8815717533442984555
       vertices: []
       indices: 
       edges: []
@@ -463,8 +1049,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46b1ee8fd283c4a44bd6408c0b39519d
-      internalID: 21300026
+      spriteID: 7ad41da03903a8380800000000000000
+      internalID: -8968302299855106649
       vertices: []
       indices: 
       edges: []
@@ -484,8 +1070,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a5ad090a3a5dd641b883f1c86acdf35
-      internalID: 21300028
+      spriteID: 6c9ccffed3119ca70800000000000000
+      internalID: 8847621900663048646
       vertices: []
       indices: 
       edges: []
@@ -505,8 +1091,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09b8f6a01c0926245a7f09f977d89220
-      internalID: 21300030
+      spriteID: 70ea98aef0d286ef0800000000000000
+      internalID: -114792244115296761
       vertices: []
       indices: 
       edges: []
@@ -526,8 +1112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6963d92305e71c64ca485937cd08e0d5
-      internalID: 21300032
+      spriteID: 835eb4d54f88afa40800000000000000
+      internalID: 5402781286102983992
       vertices: []
       indices: 
       edges: []
@@ -547,8 +1133,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8d0073b01b3b6c40b97a2c98cb686d5
-      internalID: 21300034
+      spriteID: 7cebe0dbadc6d2f60800000000000000
+      internalID: 8011178998892510919
       vertices: []
       indices: 
       edges: []
@@ -568,8 +1154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 023913f46a256384697ffd92ed068bc9
-      internalID: 21300036
+      spriteID: b7cc8549244bbfe80800000000000000
+      internalID: -8143717303119721349
       vertices: []
       indices: 
       edges: []
@@ -589,8 +1175,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adb14148d9583d24cb4b6ce04ef59c59
-      internalID: 21300038
+      spriteID: 0fd825a574c761fd0800000000000000
+      internalID: -2371571507864105488
       vertices: []
       indices: 
       edges: []
@@ -610,8 +1196,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bc26cd8109ce6a43bd60e7e9bafcd9d
-      internalID: 21300040
+      spriteID: d7245fd98c5ddd1f0800000000000000
+      internalID: -1018422883095592323
       vertices: []
       indices: 
       edges: []
@@ -631,8 +1217,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8b565d06802140488889fac68a4f005
-      internalID: 21300042
+      spriteID: f2d367804a5a9f730800000000000000
+      internalID: 4033437065222176047
       vertices: []
       indices: 
       edges: []
