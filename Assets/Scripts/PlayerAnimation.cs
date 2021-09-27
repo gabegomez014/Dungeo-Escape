@@ -5,11 +5,13 @@ using UnityEngine;
 public class PlayerAnimation : MonoBehaviour
 {
     private Animator _anim;
+    private Animator _swordAnim;
 
     // Start is called before the first frame update
     void Start()
     {
         _anim = GetComponentInChildren<Animator>();
+        _swordAnim = transform.GetChild(1).GetComponent<Animator>();
     }
 
     public void Move(float move)
@@ -25,5 +27,11 @@ public class PlayerAnimation : MonoBehaviour
     public void NotJumping()
     {
         _anim.SetBool("Jumping", false);
+    }
+
+    public void RegularAttack()
+    {
+        _anim.SetTrigger("Attack");
+        _swordAnim.SetTrigger("SwordAnimation");
     }
 }
